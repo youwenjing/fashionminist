@@ -1,0 +1,16 @@
+基于tensorflow的fashion-mnist图像分类
+1.所用模型：卷积神经网络
+2.数据 fashion mnist
+3.训练预测步骤具体方法见 MNIST-cnn.ipynb
+4.IDE tensorboard
+5.训练模型见 model/keras—mnist.h5
+6.最好的结果 94.67%
+问题回复：
+a. 平时阅读哪些技术类书籍
+平常阅读《C++ primer》《opencv3编程入门》《python基础教程》《matlab使用详解》等编程语言类书籍
+《机器学习》《大话数据结构》《计算机视觉》《数字图像处理》《c++图像处理》等机器学习图像处理相关书籍
+平时还在极客 网易公开课等APP上每周按时听课程，有在csdn上分享代码分享项目经验的习惯
+b. 当遇到技术问题时，常去哪些网站寻找帮助
+编程语言问题一般查找 库 手册 源代码
+linux系统的操作问题一般 github stackoverflow  简书 csdn
+图像处理一般 towardsdatascience  tryolabs pyimagesearch 机器之心等
