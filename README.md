@@ -1,2 +1,0 @@
-#fashionminist
-基于tensorflow的时尚mnist分类
